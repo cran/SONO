@@ -1,4 +1,4 @@
-2f823c930115b7dde58640ba799f6f1b *DESCRIPTION
+2a0e6a1fc2fc54a18ad5d568f1157e12 *DESCRIPTION
 3dbb840611d426d333a62145e4329d24 *LICENSE
 8d2b968342e53dfeb3ffb01aa7dab22f *NAMESPACE
 e2ba0672f22262f5e88b6d4db2896fd7 *R/MAXLEN_est.R
@@ -11,13 +11,19 @@ a4370a85a3625f0c382e157a66e3b471 *R/sono.R
 2827f7e19285741e8e46f7a9abb1b77e *R/sono_freq.R
 db1680dece4b8eff1bee3d284cb67c85 *R/sono_infreq.R
 8085eb31cf22e457be1576f8c2cf936a *R/vis_contribs.R
-ef16fd791c4980893a87b5453fd5ed32 *README.md
-3bc8a2448b60fed4ae348e8f99874ea7 *build/partial.rdb
+71d6e3e0d292ce1f779fb567db5de630 *README.md
+91e243a04d4a3717325fc04e42ce7e8b *build/partial.rdb
+af90fa295e74842935e2f4e4a0d30ff0 *build/vignette.rds
 e95f9f0aba04ab1ff3552a037113d59e *inst/CITATION
 4977b5e1bb87ea93bd615e566b0f6d97 *inst/REFERENCES.bib
+ecd362cae781fac4747c03fd1d55976e *inst/doc/Intro_to_SONO.R
+cc2490899f1982cfcab7c1350917d903 *inst/doc/Intro_to_SONO.Rmd
+41f6e1baf18f295267ded45f56ac053a *inst/doc/Intro_to_SONO.html
 9a2d6feeb5ff9ba1dec329f3961a34d0 *man/MAXLEN_est.Rd
 dc29e790cf314c38e80af3d4c8e0da07 *man/avg_rank_outs.Rd
+2a91644a98082b5ac3fa7093c41784fa *man/figures/logo.png
 56db66d4d1680d6a976eeef62887f966 *man/recall_at_k.Rd
 3b63a7fa17299f1cf3d9086900602c8b *man/roc_auc.Rd
 b4b319ef5ea440431a7ebe58b5947477 *man/sono.Rd
 34945a08271b894dbc34cf3abd24f065 *man/vis_contribs.Rd
+cc2490899f1982cfcab7c1350917d903 *vignettes/Intro_to_SONO.Rmd
